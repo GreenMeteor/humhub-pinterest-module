@@ -2,7 +2,7 @@
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GreenMeteor/humhub-pinterest-module/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GreenMeteor/humhub-pinterest-module/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/GreenMeteor/humhub-pinterest-module/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GreenMeteor/humhub-pinterest-module/build-status/master)
 
-Adds a sidebar widget to the Dashboard.
+Adds a Pinterest widget to your HumHub`s sidebar.
 
 ## Installing & Setup
 1. Download via git or normal download.
