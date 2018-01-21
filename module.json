@@ -1,0 +1,11 @@
+{
+    "id": "pinterest",
+    "name": "Pinterest",
+    "description": "Adds a Pinterest widget to HumHub`s sidebar.",
+    "keywords": ["pinterest"],
+    "version": "1.0.0",
+    "humhub": {
+    "minVersion": "1.0"
+    },
+    "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"]
+}
