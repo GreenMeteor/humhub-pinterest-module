@@ -3,9 +3,9 @@
     "name": "Pinterest",
     "description": "Adds a Pinterest widget to your HumHub`s sidebar.",
     "keywords": ["pinterest"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "humhub": {
-    "minVersion": "1.0"
+    "minVersion": "1.2"
     },
     "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"]
 }
