@@ -27,8 +27,8 @@ public static function addPinterestFrame($event)
         if (Yii::$app->user->isGuest) {
             return;
         }
-        $event->sender->view->registerAssetBundle(Assets::className());
-        $event->sender->addWidget(PinterestFrame::className(), [], [
+        $event->sender->view->registerAssetBundle(Assets::class);
+        $event->sender->addWidget(PinterestFrame::class, [], [
             'sortOrder' => Setting::Get('timeout', 'pinterest')
         ]);
     }
